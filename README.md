@@ -20,7 +20,7 @@ A fully responsive personal portfolio website built with **HTML, CSS, and JavaSc
 
 ## Live Demo
 
-[View Live Demo]([https://your-portfolio-link.com](https://umarkhann.netlify.app/))
+[View Live Demo](https://umarkhann.netlify.app/)
 
 ---
 

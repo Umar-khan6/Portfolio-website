@@ -28,7 +28,7 @@ A fully responsive personal portfolio website built with **HTML, CSS, and JavaSc
 
 | Home Page                          | Projects Section                      |
 | ---------------------------------- | ------------------------------------- |
-| ![Home Page](screenshots/home.png) | ![Projects](screenshots/projects.png) |
+| ![Home Page](home.png) | ![Projects](projects.png) |
 
 
 

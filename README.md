@@ -67,6 +67,6 @@ A fully responsive personal portfolio website built with **HTML, CSS, and JavaSc
 Feel free to connect with me:
 
 
-- **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan42)
+- **LinkedIn:** [umarkhan24](https://linkedin.com/in/umarkhan24)
 - **GitHub:** [Umar-khan6](https://github.com/Umar-khan6)
 - **Email:** umarkhan655020@gmail.com
